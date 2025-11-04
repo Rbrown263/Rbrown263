@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - <h3>Microsoft Active Directory Lab</h3>
+  - [Microsoft Active Directory](https://github.com/Rbrown263/ActiveDirectoryLab)
   -
 
 <h2>📜 Google IT Certification</h2>
