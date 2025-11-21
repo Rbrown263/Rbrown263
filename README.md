@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Rosalina Browning**
-### 🌐 Cybersecurity • Cloud Engineering • SOC Operations • Threat Hunting
+### 🌐 Cybersecurity • SOC Operations • Threat Hunting
 
 Welcome to my GitHub! I’m a cybersecurity-focused IT professional with hands-on experience in **Azure cloud security**, **vulnerability management**, **SOC operations**, **Windows Server administration**, and **threat hunting**.  
 My work blends cloud engineering, system security, and real-world defensive techniques to help organizations build resilient and secure environments.
@@ -9,9 +9,10 @@ My work blends cloud engineering, system security, and real-world defensive tech
 ## 👩‍💻 About Me
 - 🎓 **Master’s in Cybersecurity Engineering** (In progress – June 2026)  
 - 🎓 **B.S. Information Technology – Security Specialization** (Colorado Technical University, 2022)  
-- 🔐 **SECAi+ certification** – In progress  
-- 🧪 Currently training in a **Cyber-Range Bootcamp** (SIEM • SOC • Azure Vulnerability Management)  
-- 🔍 Passionate about cloud security, digital forensics, process improvement, and security automation  
+- 🔐 **CompTia Sec+ certification** – In progress  
+- 🧪 Currently training in a **Cyber-Range Bootcamp** (SIEM • SOC • Azure Vulnerability Management in Azure Lab)
+- 💻 Currently training on ISC2, Google IT support, and Google Cybersecurity in Coursera  
+- 🔍 Passionate about network security, digital forensics, process improvement, and security automation  
 
 ---
 
@@ -22,7 +23,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 ---
 
 ## ☁️ Azure Virtual Machine Security Lab
-📁 **Project:** [Azure VM Security Lab](./azure-vm-security)  
+📁 **Project:** [Azure VM Security Lab](https://github.com/Rbrown263/Create-Delete-Azure-VM-Lab)  
 **Highlights:**  
 - Created VM **without public IP**  
 - Configured NSGs and private networking  
