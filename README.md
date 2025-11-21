@@ -23,7 +23,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 ---
 
 ## ☁️ Azure Virtual Machine Security Lab
-📁 **Project:** [Azure VM Security Lab](https://github.com/Rbrown263/Create-Delete-Azure-VM-Lab)  
+📁 **Project:** [Create-Delete VM in Azure](https://github.com/Rbrown263/Create-Delete-Azure-VM-Lab)  
 **Highlights:**  
 - Created VM **without public IP**  
 - Configured NSGs and private networking  
