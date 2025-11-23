@@ -40,7 +40,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
-## 📊 SOC Operations & SIEM Monitoring Lab
+## 📊 SOC Operations & SIEM Monitoring Lab - December 2025 Project
 📁 **Project:** [SOC Operations Lab](./soc-operations)  
 **Highlights:**  
 - Investigated alerts (brute force, malware, lateral movement)  
@@ -49,8 +49,8 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
-## 🪟 Windows Server Administration Lab
-📁 **Project:** [Windows Server Lab](./windows-server-administration)  - December 2025 Project
+## 🪟 Windows Server Administration Lab  - December 2025 Project
+📁 **Project:** [Windows Server Lab](./windows-server-administration) 
 **Highlights:**  
 - Configured roles, GPOs, and user permissions  
 - Managed Active Directory and security policies  
