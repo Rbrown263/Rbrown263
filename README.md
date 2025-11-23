@@ -50,7 +50,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 ---
 
 ## 🪟 Windows Server Administration Lab
-📁 **Project:** [Windows Server Lab](./windows-server-administration)  
+📁 **Project:** [Windows Server Lab](./windows-server-administration)  - December 2025 Project
 **Highlights:**  
 - Configured roles, GPOs, and user permissions  
 - Managed Active Directory and security policies  
@@ -58,7 +58,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
-## 🌐 DHCP Server Configuration Lab
+## 🌐 DHCP Server Configuration Lab  - December 2025 Project
 📁 **Project:** [DHCP Server Lab](./dhcp-server)  
 **Highlights:**  
 - Created scopes and reservations  
@@ -67,7 +67,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
-## 🏷️ DNS Server & Zone Management Lab
+## 🏷️ DNS Server & Zone Management Lab - In Progress
 📁 **Project:** [DNS Server Lab](./dns-server)  
 **Highlights:**  
 - Built forward/reverse lookup zones  
@@ -76,7 +76,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
-## 💻 Google IT Support Labs
+## 💻 Google IT Support Labs - In Progress at 50%
 📁 **Project:** [Google IT Support Lab](./google-it-support)  
 **Highlights:**  
 - Completed OS, networking, and troubleshooting labs  
@@ -84,7 +84,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
-## 🎯 Threat Hunting Investigation Lab
+## 🎯 Threat Hunting Investigation Lab  - Early December 2025 Project
 📁 **Project:** [Threat Hunting Lab](./threat-hunting)  
 **Highlights:**  
 - Used MITRE ATT&CK methods  
@@ -96,17 +96,15 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 # 🧰 Technical Skills
 
 ### 🔐 Cybersecurity
-SOC Monitoring • Threat Hunting • Vulnerability Scanning  
-Incident Response • Malware Indicators • Risk Prioritization  
+Threat Hunting • Vulnerability Scanning • Risk Prioritization
 
 ### ☁️ Cloud
-Azure VM Management • NSGs • Identity & Access  
+Azure VM Management • NSGs • Identity & Access
 
 ### 🛠️ Tools
-Tenable/Nessus • Splunk • Wireshark • Azure Security  
-PowerShell • Windows Server  
+Tenable/Nessus • Azure Security  
 
-### 🖥️ Systems
+### 🖥️ Systems - December 2025 Project
 DNS • DHCP • Active Directory  
 Linux • Windows OS Administration  
 
@@ -114,5 +112,4 @@ Linux • Windows OS Administration
 
 # 📬 Connect With Me
 📧 **Email:** *rosalina.browning@outlook.com*  
-💼 **LinkedIn:** *https://www.linkedin.com/in/rosalina-browning/*  
-🌐 **Portfolio Website (optional)**  
+💼 **LinkedIn:** *https://www.linkedin.com/in/rosalina-browning/*
