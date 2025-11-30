@@ -40,8 +40,26 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
+## 🛡️ Tenable Vulnerability Assessment Lab (Linux system)
+📁 **Project:** [Tenable Vulnerability Lab](https://github.com/Rbrown263/Vulnerability-Scans)  
+**Highlights:**  
+- Performed vulnerability scans using Nessus/Tenable  
+- Analyzed findings using CVSS  
+- Built remediation and patching recommendations
+
+---
+
+## 🎯 Threat Hunting Investigation Lab  - Early December 2025 Project
+📁 **Project:** [Threat Hunting Lab]  
+**Highlights:**  
+- Used MITRE ATT&CK methods  
+- Built hypotheses and identified IOCs  
+- Correlated logs to uncover malicious activity
+
+---
+
 ## 📊 SOC Operations & SIEM Monitoring Lab - December 2025 Project
-📁 **Project:** [SOC Operations Lab](./soc-operations)  
+📁 **Project:** [SOC Operations Lab]
 **Highlights:**  
 - Investigated alerts (brute force, malware, lateral movement)  
 - Created detection rules and playbooks  
@@ -50,7 +68,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 ---
 
 ## 🪟 Windows Server Administration Lab  - December 2025 Project
-📁 **Project:** [Windows Server Lab](./windows-server-administration) 
+📁 **Project:** [Windows Server Lab] 
 **Highlights:**  
 - Configured roles, GPOs, and user permissions  
 - Managed Active Directory and security policies  
@@ -59,7 +77,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 ---
 
 ## 🌐 DHCP Server Configuration Lab  - December 2025 Project
-📁 **Project:** [DHCP Server Lab](./dhcp-server)  
+📁 **Project:** [DHCP Server Lab]  
 **Highlights:**  
 - Created scopes and reservations  
 - Configured DHCP options  
@@ -68,7 +86,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 ---
 
 ## 🏷️ DNS Server & Zone Management Lab - In Progress
-📁 **Project:** [DNS Server Lab](./dns-server)  
+📁 **Project:** [DNS Server Lab]  
 **Highlights:**  
 - Built forward/reverse lookup zones  
 - Added A, PTR, CNAME, MX records  
@@ -77,19 +95,10 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 ---
 
 ## 💻 Google IT Support Labs - In Progress at 50%
-📁 **Project:** [Google IT Support Lab](./google-it-support)  
+📁 **Project:** [Google IT Support Lab]  
 **Highlights:**  
 - Completed OS, networking, and troubleshooting labs  
 - Strengthened IT fundamentals and scripting skills  
-
----
-
-## 🎯 Threat Hunting Investigation Lab  - Early December 2025 Project
-📁 **Project:** [Threat Hunting Lab](./threat-hunting)  
-**Highlights:**  
-- Used MITRE ATT&CK methods  
-- Built hypotheses and identified IOCs  
-- Correlated logs to uncover malicious activity  
 
 ---
 
