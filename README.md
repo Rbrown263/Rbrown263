@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Rosalina Browning**
-### 🌐 Cybersecurity • SOC Operations • Threat Hunting
+### 🌐 Cybersecurity • SOC Operations • Threat Hunting • Vulnerability Managemnt
 
 Welcome to my GitHub! I’m a cybersecurity-focused IT professional with hands-on experience in **Azure cloud security**, **vulnerability management**, **SOC operations**, **Windows Server administration**, and **threat hunting**.  
 My work blends cloud engineering, system security, and real-world defensive techniques to help organizations build resilient and secure environments.
