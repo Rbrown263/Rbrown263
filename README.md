@@ -31,7 +31,7 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
-## 🛡️ Tenable Vulnerability Assessment Lab
+## 🛡️ Tenable Vulnerability Assessment Lab (Windows)
 📁 **Project:** [Tenable Vulnerability Lab](https://github.com/Rbrown263/Vulnerability-Scans)  
 **Highlights:**  
 - Performed vulnerability scans using Nessus/Tenable  
