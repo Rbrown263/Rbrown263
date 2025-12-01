@@ -40,8 +40,8 @@ Below are the projects and labs that represent my hands-on skills in cybersecuri
 
 ---
 
-## 🛡️ Tenable Vulnerability Assessment Lab (Linux system)
-📁 **Project:** [Tenable Vulnerability Lab Linux](https://github.com/Rbrown263/Vulnerability-Scans)  
+## 🛡️ Tenable Vulnerability Assessment Lab (Ubuntu system)
+📁 **Project:** [Tenable Vulnerability Lab Linux](https://github.com/Rbrown263/Ubuntu-Vulnerability-Scans)  
 **Highlights:**  
 - Performed vulnerability scans using Nessus/Tenable  
 - Analyzed findings using CVSS  
