@@ -18,7 +18,7 @@ My work blends cloud engineering, system security, and real-world defensive tech
 
 # 🔥 Featured Projects & Labs
 
-Below are the projects and labs that represent my hands-on skills in cybersecurity and cloud administration.
+Below are the projects and labs that represent my hands-on skills in cybersecurity.
 
 ---
 
