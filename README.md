@@ -98,7 +98,21 @@ Below are the projects and labs that represent my hands-on skills.
 📁 **Project:** [Google IT Support Lab]  
 **Highlights:**  
 - Completed OS, networking, and troubleshooting labs  
-- Strengthened IT fundamentals and scripting skills  
+- Strengthened IT fundamentals and scripting skills
+
+## 💻 ISC2 CC - In Progress March 2026 (Coursera)
+**Highlights:**  
+- Security principles, access controls, network security, security operations, and incident response/BCDR  
+- Practical understanding of risk, governance/ethics, common controls, monitoring/incident handling concepts,
+  and secure networking fundamentals to support SOC/helpdesk-to-security pathways
+
+## 💻 Google Cybersecurity - April 2026 (Coursera)
+📁 **Project:** [Google Cybersecurity Lab]  
+**Highlights:**  
+- SOC analyst readiness and covers foundations, risk management, network security,
+  security operations, and incident escalation workflows. 
+- Security+ adjacent: includes applied activities and introduces industry workflows
+  and tools (including SIEM concepts/dashboards 
 
 ---
 
