@@ -135,5 +135,5 @@ Linux • Windows OS Administration
 
 # 📬 Connect With Me
 📧 **Email:** *rosalina.browning@outlook.com*  
-💼 **LinkedIn:** *https://www.linkedin.com/in/rosalina-browning/*
+💼 **LinkedIn:** *https://www.linkedin.com/in/rosalina-browning/*  
 💻 **Professional site** *https://qtech.life*
