@@ -22,7 +22,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## ☁️ Azure Virtual Machine Security Lab
+## ☁️ Azure Virtual Machine Security Lab (Cyber-Range Boot Camp)
 📁 **Project:** [Create-Delete VM in Azure](https://github.com/Rbrown263/Create-Delete-Azure-VM-Lab)  
 **Highlights:**  
 - Created VM **without public IP**  
@@ -31,7 +31,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## 🛡️ Tenable Vulnerability Assessment Lab (Windows)
+## 🛡️ Tenable Vulnerability Assessment Lab (Windows) (Cyber-Range Boot Camp)
 📁 **Project:** [Tenable Vulnerability Lab Windows](https://github.com/Rbrown263/Vulnerability-Scans)  
 **Highlights:**  
 - Performed vulnerability scans using Nessus/Tenable  
@@ -40,7 +40,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## 🛡️ Tenable Vulnerability Assessment Lab (Ubuntu system) - Inprogress
+## 🛡️ Tenable Vulnerability Assessment Lab (Ubuntu system) - Inprogress (Cyber-Range Boot Camp)
 📁 **Project:** [Tenable Vulnerability Lab Linux](https://github.com/Rbrown263/Ubuntu-Vulnerability-Scans)  
 **Highlights:**  
 - Performed vulnerability scans using Nessus/Tenable  
@@ -49,7 +49,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## 🎯 Threat Hunting Investigation Lab  - Early December 2025 Project
+## 🎯 Threat Hunting Investigation Lab  - In Progress January 2026 Project (Cyber-Range Boot Camp)
 📁 **Project:** [Threat Hunting Lab]  
 **Highlights:**  
 - Used MITRE ATT&CK methods  
@@ -58,7 +58,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## 📊 SOC Operations & SIEM Monitoring Lab - December 2025 Project
+## 📊 SOC Operations & SIEM Monitoring Lab - In Progress January 2026 Project (Cyber-Range Boot Camp)
 📁 **Project:** [SOC Operations Lab]
 **Highlights:**  
 - Investigated alerts (brute force, malware, lateral movement)  
@@ -67,7 +67,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## 🪟 Windows Server Administration Lab  - December 2025 Project
+## 🪟 Windows Server Administration Lab  - February 2026 Project (Coursera)
 📁 **Project:** [Windows Server Lab] 
 **Highlights:**  
 - Configured roles, GPOs, and user permissions  
@@ -76,7 +76,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## 🌐 DHCP Server Configuration Lab  - December 2025 Project
+## 🌐 DHCP Server Configuration Lab  -  February 2026 Project (Coursera)
 📁 **Project:** [DHCP Server Lab]  
 **Highlights:**  
 - Created scopes and reservations  
@@ -85,7 +85,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## 🏷️ DNS Server & Zone Management Lab - In Progress
+## 🏷️ DNS Server & Zone Management Lab -  February 2026 Project
 📁 **Project:** [DNS Server Lab]  
 **Highlights:**  
 - Built forward/reverse lookup zones  
@@ -94,7 +94,7 @@ Below are the projects and labs that represent my hands-on skills.
 
 ---
 
-## 💻 Google IT Support Labs - In Progress at 50%
+## 💻 Google IT Support Labs - In Progress at 55% (Coursera)
 📁 **Project:** [Google IT Support Lab]  
 **Highlights:**  
 - Completed OS, networking, and troubleshooting labs  
