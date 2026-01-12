@@ -127,7 +127,7 @@ Azure VM Management • NSGs • Identity & Access
 ### 🛠️ Tools
 Tenable/Nessus • Azure Security  
 
-### 🖥️ Systems - December 2025 Project
+### 🖥️ Systems - January - Feburary 2026 Project
 DNS • DHCP • Active Directory  
 Linux • Windows OS Administration  
 
@@ -136,4 +136,4 @@ Linux • Windows OS Administration
 # 📬 Connect With Me
 📧 **Email:** *rosalina.browning@outlook.com*  
 💼 **LinkedIn:** *https://www.linkedin.com/in/rosalina-browning/*
-💻 **Professional site** https://qtech.life
+💻 **Professional site** *https://qtech.life*
